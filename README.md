@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Franky Rifdul Mannan and 'm a passionate Front-End Developer with a strong focus on building modern, responsive, and user-friendly web applications.</p>
+<p align="left">My name is Franky Rifdul Mannan and i'm a passionate Front-End Developer with a strong focus on building modern, responsive, and user-friendly web applications.</p>
 
 ###
 
