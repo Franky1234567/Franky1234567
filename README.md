@@ -6,17 +6,17 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif?cid=ecf05e47gmav1stdcvbr94h7xlvl6ahz7k9fztxmvhxzabxo&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<br clear="both">
 
-###
-
-<h2 align="left">About me</h2>
+<img align="right" height="212" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tzaHg4cGoyb2FrbGJxanV6YXNmd254eTBqcXpqb2doZTRjd3NsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
 <p align="left">📚 I'm currently learning Express an Data Base<br>🎯 Goals: Full Stack Dev</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Language and Tools</h2>
 
