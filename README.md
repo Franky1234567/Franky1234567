@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Express an Data Base<br>🎯 Goals: Full Stack Dev</p>
+<p align="left">📚 I'm currently learning Express and Data Base<br>🎯 Goals: Full Stack Dev</p>
 
 ###
 
